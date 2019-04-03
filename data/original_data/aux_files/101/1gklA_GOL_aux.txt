@@ -1,0 +1,2 @@
+BindingResidueIDs:865 866 868 953 954 955
+BindingSiteCenter:

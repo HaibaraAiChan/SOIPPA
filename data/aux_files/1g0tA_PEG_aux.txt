@@ -1,0 +1,2 @@
+BindingResidueIDs:100 180 181 182 183 194 195 196
+BindingSiteCenter:

@@ -1,0 +1,2 @@
+BindingResidueIDs:437 438 439 490 567 605 607 647 649 733 734 736
+BindingSiteCenter:

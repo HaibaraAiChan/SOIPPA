@@ -1,0 +1,2 @@
+BindingResidueIDs:434 437 438 441 443 444 448 474 475 477
+BindingSiteCenter:

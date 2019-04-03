@@ -1,0 +1,2 @@
+BindingResidueIDs:866 954 955 958 978 979 980 982
+BindingSiteCenter:

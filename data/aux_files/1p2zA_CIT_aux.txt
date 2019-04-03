@@ -1,0 +1,2 @@
+BindingResidueIDs:866 867 868
+BindingSiteCenter:

@@ -1,0 +1,2 @@
+BindingResidueIDs:101 103 141 143 446 448 499 501 506
+BindingSiteCenter:

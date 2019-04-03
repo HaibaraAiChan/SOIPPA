@@ -1,0 +1,2 @@
+BindingResidueIDs:349 352 373 374 375 376 377 378 379 382 388 406 407 479 532
+BindingSiteCenter:

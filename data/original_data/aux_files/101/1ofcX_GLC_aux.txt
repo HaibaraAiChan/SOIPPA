@@ -1,0 +1,2 @@
+BindingResidueIDs:825 827 828 829 830 831 832
+BindingSiteCenter:

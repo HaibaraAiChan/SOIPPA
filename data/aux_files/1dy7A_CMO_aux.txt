@@ -1,0 +1,2 @@
+BindingResidueIDs:200 345 346 388 443 444
+BindingSiteCenter:
